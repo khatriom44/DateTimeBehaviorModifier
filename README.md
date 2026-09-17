@@ -25,6 +25,4 @@ An XrmToolBox plugin designed to bulk update the **Behavior** and **Format** of 
 
 ### Manual Installation (Local Build)
 1. Download the latest release `.dll` from the [Releases](../../releases) tab.
-2. Place the assembly file inside your XrmToolBox storage directory:
-   ```text
-   %AppData%\MscrmTools\XrmToolBox\Plugins\
+
