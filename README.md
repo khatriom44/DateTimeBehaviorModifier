@@ -23,6 +23,5 @@ An XrmToolBox plugin designed to bulk update the **Behavior** and **Format** of 
 3. Search for `DateTime Behavior Modifier`.
 4. Click **Install**.
 
-### Manual Installation (Local Build)
-1. Download the latest release `.dll` from the [Releases](../../releases) tab.
+
 
